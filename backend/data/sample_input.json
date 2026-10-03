@@ -1,0 +1,38 @@
+[
+  {
+    "api_name": "PatientRecordsAPI",
+    "status_code": 200,
+    "response_time_ms": 240,
+    "records_returned": 45
+  },
+  {
+    "api_name": "LabResultsAPI",
+    "status_code": 200,
+    "response_time_ms": 4200,
+    "records_returned": 120
+  },
+  {
+    "api_name": "PatientAuthAPI",
+    "status_code": 401,
+    "response_time_ms": 310,
+    "records_returned": 0
+  },
+  {
+    "api_name": "AppointmentAPI",
+    "status_code": 500,
+    "response_time_ms": 5500,
+    "records_returned": 0
+  },
+  {
+    "api_name": "SearchDirectoryAPI",
+    "status_code": 200,
+    "response_time_ms": 480,
+    "records_returned": 0
+  },
+  {
+    "api_name": "TelehealthAPI",
+    "status_code": 200,
+    "response_time_ms": -250,
+    "records_returned": 10
+  }
+]
